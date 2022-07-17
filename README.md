@@ -21,7 +21,7 @@ Resumo das minhas habilidades técnicas:
 
 ## 
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/Matheus-Aureliano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Aureliano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Aureliano&layout=compact&langs_count=7&theme=tokyonight"/>
